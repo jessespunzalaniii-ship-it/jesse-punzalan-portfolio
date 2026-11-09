@@ -1,0 +1,7 @@
+﻿Game_ID,Quarter,Clock,Down,To_Go,Yard_Line,Formation,Play_Type,Result,Passer,Rusher,Receiver,Gain_Yards
+DEMO-FB-01,1,12:33,1,10,OWN 25,Shotgun,PASS,COMPLETE,#8,,#11,8
+DEMO-FB-01,1,12:05,2,2,OWN 33,Singleback,RUN,GAIN,,#22,,4
+DEMO-FB-01,1,11:32,1,10,OWN 37,Shotgun,PASS,INCOMPLETE,#8,,#14,0
+DEMO-FB-01,1,11:11,2,10,OWN 37,I-Form,RUN,GAIN,,#22,,3
+DEMO-FB-01,1,10:39,3,7,OWN 40,Shotgun,PASS,COMPLETE,#8,,#14,11
+DEMO-FB-01,1,10:01,1,10,OPP 49,Singleback,RUN,LOSS,,#31,,-2

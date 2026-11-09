@@ -1,0 +1,11 @@
+﻿Game_ID,Period,Game_Clock,Team,Player_No,Event,Result,Points,QA_Note
+DEMO-BB-01,Q1,09:42,Blue,#12,2PT_MADE,Made,2,Verified against video
+DEMO-BB-01,Q1,09:15,White,#7,3PT_MISS,Miss,0,Rebound on next event
+DEMO-BB-01,Q1,09:11,Blue,#21,DEF_REB,Recorded,0,
+DEMO-BB-01,Q1,08:58,Blue,#12,ASSIST,Recorded,0,Assists teammate #9
+DEMO-BB-01,Q1,08:58,Blue,#9,2PT_MADE,Made,2,
+DEMO-BB-01,Q1,08:12,White,#4,TURNOVER,Recorded,0,Bad pass
+DEMO-BB-01,Q1,08:12,Blue,#21,STEAL,Recorded,0,Same possession
+DEMO-BB-01,Q1,07:53,Blue,#21,FT_MADE,Made,1,
+DEMO-BB-01,Q1,07:53,Blue,#21,FT_MISS,Miss,0,Second attempt
+DEMO-BB-01,Q1,07:50,White,#15,DEF_REB,Recorded,0,

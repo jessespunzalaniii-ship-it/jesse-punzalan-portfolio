@@ -1,0 +1,5 @@
+﻿Example_ID,Sport,Video_Time,Original_Tag,Verified_Tag,Illustrative_Reason,Data_Status
+DEMO-QA-001,Basketball,02:43,3PT_MADE #12,2PT_MADE #12,Foot on three-point arc in this fictional example,Illustrative correction
+DEMO-QA-002,Basketball,04:16,REB #4,REB #14,Jersey identified incorrectly in this fictional example,Illustrative correction
+DEMO-QA-003,American football,10:39,PASS INCOMPLETE,PASS COMPLETE,Receiver controls ball through catch in this fictional example,Illustrative correction
+DEMO-QA-004,American football,05:21,RUN right,RUN left,Play direction reversed in this fictional example,Illustrative correction
